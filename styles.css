@@ -1,0 +1,79 @@
+
+body {
+  background-image: url("img/reef.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+div.backgroundContainer {
+  background-color: rgba(247, 247, 247, 0.6);
+}
+
+.title {
+  font-family: elephant, "Engravers MT", serif;
+}
+
+.centred-title {
+  text-align: center;
+}
+
+
+p.centred-list {
+  text-align: center;
+}
+
+p.centred-text {
+  text-align: center;
+}
+
+p, ul, ol {
+    font-family: Arial, Calibri, sans-serif;
+}
+
+img.indexIntroImg {
+  border-radius: 30%;
+}
+
+img.crocSignImg {
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
+}
+
+img.crocImg {
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+
+img.saltwaterImg {
+  border-top-left-radius: 10%;
+}
+
+img.freshwaterImg {
+  border-bottom-right-radius: 10%;
+}
+
+img.paternosterRigImg {
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+img.snelledRigImg {
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+
+img.lureTiedOnImg {
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+img.lureClippedOnImg {
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+
+a.orange-A-Tags {
+  color: red;
+}
